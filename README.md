@@ -1,2 +1,0 @@
-# wsq
- test
