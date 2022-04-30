@@ -1,0 +1,188 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding:0px;
+	margin:0px;}
+.logo{
+	margin-left:-301px;}
+
+.B1 .logo img{
+	width:100px;
+	height:100px;
+	float:left;}
+.B1{
+	width:1226px;
+	height:100px;
+	background-color:#FFF;
+	}
+.B1 ul{
+	width:710px;
+	height:40px;
+	margin:0px auto;
+	list-style:none;}
+.B1 ul li{
+	float:left;}
+.B1 ul a{
+	width:102px;
+	height:88px;
+	text-align:center;
+	line-height:40px;
+	color:#000;
+	text-decoration:none;
+	font-size:13px;
+	margin-top:0px;
+	margin-left:20px;}
+.B1 a:hover{
+	color:#FF6700;
+	font-weight:bold;}
+	
+	
+	
+.B2{
+	width:1226px;
+	height:100px;
+	background-color:#FFF;
+	margin:0px auto;
+	margin-left:500px;}
+.B2 ul{
+	width:710px;
+	height:40px;
+	margin:0px auto;
+	list-style:none;}
+.B2 ul li{
+	float:right;}
+.B2 ul a{
+	width:102px;
+	height:88px;
+	text-align:center;
+	line-height:40px;
+	color:#000;
+	text-decoration:none;
+	font-size:13px;
+	margin-top:0px;
+	margin-left:20px;}
+.B2 a:hover{
+	color:#FF6700;
+	font-weight:bold;}
+.box{
+	width:100%;
+	height:1200px;
+	background:no-repeat center center fixed;
+	overflow:hidden;}
+.box1{
+	background:url(../%E5%9B%BE%E7%89%87/h-12.jpg);}
+.box2{
+	background:url(../%E5%9B%BE%E7%89%87/h-8.jpg);}
+.box3{
+	background: url(../%E5%9B%BE%E7%89%87/h-13.jpg)}
+.box4{
+	background: #666 url(../%E5%9B%BE%E7%89%87/bg.png)
+	no-repeat center ;} 
+.box5{
+	background: url(../%E5%9B%BE%E7%89%87/h-24.jpg) no-repeat;}
+.box6{
+	background:url(../%E5%9B%BE%E7%89%87/QQ%E5%9B%BE%E7%89%8720220405111326.png) no-repeat;}
+.box7{
+	background: url(../%E5%9B%BE%E7%89%87/h-21.jpg) no-repeat;
+	margin-top:-310px;}
+.box8{
+	background: url(../%E5%9B%BE%E7%89%87/qqtupain.png) no-repeat center bottom;
+	margin-top:-270px;
+	}
+.wz{
+	margin-top:-270px;}
+.box9{
+	background: url(../%E5%9B%BE%E7%89%87/45.jpg) no-repeat center bottom;
+	margin-top:-270px;}
+body{
+	font-family:"微软雅黑";}
+.box .text h2{
+	font-weight:400px;
+	font-size:36px;
+	color:#333;
+	line-height:1.6em;}
+.box .text p{
+	font-size:16px;
+	color:#333;
+	line-height:1.8em;
+	margin-top:25px;}
+.box .text a{
+	font-size:16px;
+	color:#ff6700;
+	text-decoration:none;}
+.box1 .text{
+	margin-left:20%;
+	margin-top:15%;}
+.box .text .price{
+	color:#f00;
+	font-size:14px;
+	margin-top:30px;
+	margin-bottom:20px;}
+.box .text .price span{
+	font-size:36px;}
+.box2 .text{
+	margin-left:70%;
+	margin-top:5%;}
+.box3 .text{
+	margin-left:40%;
+	margin-top:30%;}
+.box4 .text{
+	margin-left:35%;
+	margin-top:8%;}
+.box5 .text{
+	margin-left:20%;
+	margin-top:15%;}
+.box6 .text{
+	margin-left:38%;
+	margin-top:18%;
+	float:left;}
+.box7 .text{
+	margin-left:40%;
+	margin-top:15%;}
+.box8 .text{
+	margin-left:24%;
+	margin-top:33%;}
+.box9 .text{
+	margin-left:42%;
+	margin-top:20%;}
+.box9 .text1{
+	margin-left:16%;
+	margin-top:32%;
+	float:left}
+.box9 .text2{
+	margin-left:4%;
+	margin-top:32%;
+	float:left}
+.box9 .text3{
+	margin-left:63%;
+	margin-top:32%;}
+a{
+	color:#000;
+	text-decoration:none}
+a:hover{
+	color:#FF6600;}
+.ys{
+	color:#FF6600;
+font-weight:bold;}
+td{
+	alignment-adjust:middle}
+.outbox{
+	width:803px;
+	height:482px;
+	background-color:#FFF;
+	margin:0px auto;
+	margin-top:200px;
+	overflow:hidden;}
+.inbox{
+	width:750px;
+	height:460px;
+	border:#FFdc74 2px solid;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:100px;}
+.box10{
+	background-color:#eeeeee;
+	}
+.wz1{
+	margin:0px auto;
+	margin-bottom:20px;}
